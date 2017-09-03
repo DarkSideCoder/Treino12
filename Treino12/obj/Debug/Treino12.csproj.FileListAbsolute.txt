@@ -1,0 +1,19 @@
+C:\Users\Cdsr99\Desktop\Caio da Silveira R\Projetos em C#\Treino12\Treino12\bin\Debug\Treino12.exe.config
+C:\Users\Cdsr99\Desktop\Caio da Silveira R\Projetos em C#\Treino12\Treino12\obj\Debug\Treino12.csprojResolveAssemblyReference.cache
+C:\Users\Cdsr99\Desktop\Caio da Silveira R\Projetos em C#\Treino12\Treino12\obj\Debug\Treino12.Form1.resources
+C:\Users\Cdsr99\Desktop\Caio da Silveira R\Projetos em C#\Treino12\Treino12\obj\Debug\Treino12.Properties.Resources.resources
+C:\Users\Cdsr99\Desktop\Caio da Silveira R\Projetos em C#\Treino12\Treino12\obj\Debug\Treino12.csproj.GenerateResource.Cache
+C:\Users\Cdsr99\Desktop\Caio da Silveira R\Projetos em C#\Treino12\Treino12\bin\Debug\Treino12.exe
+C:\Users\Cdsr99\Desktop\Caio da Silveira R\Projetos em C#\Treino12\Treino12\bin\Debug\Treino12.pdb
+C:\Users\Cdsr99\Desktop\Caio da Silveira R\Projetos em C#\Treino12\Treino12\obj\Debug\Treino12.exe
+C:\Users\Cdsr99\Desktop\Caio da Silveira R\Projetos em C#\Treino12\Treino12\obj\Debug\Treino12.pdb
+C:\c#\Treino12\Treino12\bin\Debug\Treino12.exe.config
+C:\c#\Treino12\Treino12\obj\Debug\Treino12.exe
+C:\c#\Treino12\Treino12\obj\Debug\Treino12.pdb
+C:\c#\Treino12\Treino12\obj\Debug\Treino12.csprojResolveAssemblyReference.cache
+C:\c#\Treino12\Treino12\obj\Debug\Treino12.Form1.resources
+C:\c#\Treino12\Treino12\obj\Debug\Treino12.Form2.resources
+C:\c#\Treino12\Treino12\obj\Debug\Treino12.Properties.Resources.resources
+C:\c#\Treino12\Treino12\obj\Debug\Treino12.csproj.GenerateResource.Cache
+C:\c#\Treino12\Treino12\bin\Debug\Treino12.exe
+C:\c#\Treino12\Treino12\bin\Debug\Treino12.pdb
